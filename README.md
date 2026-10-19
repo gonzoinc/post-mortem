@@ -1,5 +1,7 @@
 # Post-mortem
 
+![Post-mortem: learn from failures, record recovery attempts, verify fixes, and retain lessons in the project memory bank](assets/Post-Mortem_%20From%20Failure%20to%20Learning.png)
+
 An automatic Codex skill that helps an agent learn from trial and error within
 a project. It records unexpected failures and every recovery attempt, then
 consults that history before trying again.
