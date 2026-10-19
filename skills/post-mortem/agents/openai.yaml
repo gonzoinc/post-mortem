@@ -1,0 +1,5 @@
+interface:
+  display_name: "Post-mortem"
+  short_description: "Learn from failures and avoid repeated failed attempts"
+policy:
+  allow_implicit_invocation: true

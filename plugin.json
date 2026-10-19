@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "post-mortem",
+  "version": "0.1.1",
+  "description": "Automatically learn from unexpected project failures, preserve all recovery attempts, and consult history before retrying.",
+  "author": {
+    "name": "gonzoinc"
+  },
+  "repository": "https://github.com/gonzoinc/post-mortem",
+  "license": "MIT"
+}
